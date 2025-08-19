@@ -13,7 +13,7 @@
 </p>
 
 
-<font size=7><div align='center' > [[🍎 Project Page](https://mme-emotion.github.io/)] [[📖 arXiv Paper](https://www.arxiv.org/pdf/2508.09210)] [[📊 Dataset](https://github.com/FunAudioLLM/MME-Emotion/blob/master/MME-Emotion-Dataset/dataset-readme.md)] [[🏆 Leaderboard](https://mme-emotion.github.io/#leaderboard)]  </div></font>
+<font size=7><div align='center' > [[🍎 Project Page](https://mme-emotion.github.io/)] [[📖 arXiv Paper](https://www.arxiv.org/pdf/2508.09210)] [[📊 Dataset](https://github.com/FunAudioLLM/MME-Emotion/blob/main/MME-Emotion-Dataset/dataset-readme.md)] [[🏆 Leaderboard](https://mme-emotion.github.io/#leaderboard)]  </div></font>
 
 
 🌟 Official repository for the paper "MME-Emotion: A Holistic Evaluation Benchmark for Emotional Intelligence in Multimodal Large Language Models"
