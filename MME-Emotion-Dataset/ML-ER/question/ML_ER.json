@@ -1,0 +1,8402 @@
+[
+  {
+    "video_id": "MAFW/video/03419.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00343.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00205.mp4",
+    "label": "fear,sadness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01303.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00597.mp4",
+    "label": "happiness,contempt",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00716.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02223.mp4",
+    "label": "anger,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02092.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01665.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02294.mp4",
+    "label": "happiness,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01295.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00498.mp4",
+    "label": "anger,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01551.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/04967.mp4",
+    "label": "happiness,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/04295.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02320.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00786.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01837.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00604.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00340.mp4",
+    "label": "anger,sadness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01455.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00762.mp4",
+    "label": "sadness,helplessness,disappointment",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01129.mp4",
+    "label": "disgust,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00979.mp4",
+    "label": "fear,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02310.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01209.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00861.mp4",
+    "label": "happiness,contempt",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02008.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03599.mp4",
+    "label": "fear,surprise,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00382.mp4",
+    "label": "sadness,disappointment",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02854.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01302.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/04244.mp4",
+    "label": "fear,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00445.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00235.mp4",
+    "label": "disgust,contempt",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02278.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02899.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02131.mp4",
+    "label": "fear,surprise,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00064.mp4",
+    "label": "disgust,contempt",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01473.mp4",
+    "label": "disgust,sadness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01694.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00650.mp4",
+    "label": "anxiety,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/04481.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00519.mp4",
+    "label": "anger,sadness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02641.mp4",
+    "label": "sadness,disappointment",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00454.mp4",
+    "label": "happiness,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00231.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02763.mp4",
+    "label": "fear,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03987.mp4",
+    "label": "fear,sadness,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00860.mp4",
+    "label": "disgust,disappointment",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03480.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01156.mp4",
+    "label": "happiness,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01835.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00397.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01988.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00742.mp4",
+    "label": "fear,sadness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03467.mp4",
+    "label": "disgust,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01469.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02828.mp4",
+    "label": "anxiety,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00713.mp4",
+    "label": "fear,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00267.mp4",
+    "label": "sadness,helplessness,disappointment",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03430.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03637.mp4",
+    "label": "disgust,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01271.mp4",
+    "label": "happiness,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01107.mp4",
+    "label": "fear,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00690.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00028.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00898.mp4",
+    "label": "fear,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01019.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00707.mp4",
+    "label": "surprise,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01044.mp4",
+    "label": "helplessness,disappointment",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00607.mp4",
+    "label": "anxiety,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02756.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01314.mp4",
+    "label": "sadness,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00433.mp4",
+    "label": "anger,sadness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03141.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01607.mp4",
+    "label": "fear,sadness,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00507.mp4",
+    "label": "disgust,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02714.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01795.mp4",
+    "label": "disgust,contempt",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00368.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/04796.mp4",
+    "label": "happiness,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02728.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00468.mp4",
+    "label": "disgust,contempt",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03069.mp4",
+    "label": "fear,sadness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01470.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01677.mp4",
+    "label": "disgust,contempt",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/04963.mp4",
+    "label": "happiness,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00588.mp4",
+    "label": "happiness,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03912.mp4",
+    "label": "fear,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03520.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/04337.mp4",
+    "label": "happiness,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00308.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02632.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01232.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01072.mp4",
+    "label": "happiness,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00444.mp4",
+    "label": "anxiety,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03160.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01421.mp4",
+    "label": "sadness,disappointment",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00463.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03096.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00470.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00536.mp4",
+    "label": "helplessness,disappointment",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00999.mp4",
+    "label": "happiness,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00175.mp4",
+    "label": "fear,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02387.mp4",
+    "label": "sadness,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/06851.mp4",
+    "label": "fear,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00526.mp4",
+    "label": "sadness,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02563.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00086.mp4",
+    "label": "anger,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00701.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01497.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/06980.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/04345.mp4",
+    "label": "happiness,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00431.mp4",
+    "label": "sadness,helplessness,disappointment",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00491.mp4",
+    "label": "fear,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00229.mp4",
+    "label": "happiness,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01001.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03755.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02785.mp4",
+    "label": "sadness,disappointment",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02399.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/04640.mp4",
+    "label": "disgust,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02655.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02018.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00025.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03476.mp4",
+    "label": "fear,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02935.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02232.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02745.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03684.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02572.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01775.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00584.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02786.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00302.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02403.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00687.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02539.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02942.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00573.mp4",
+    "label": "anger,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01121.mp4",
+    "label": "helplessness,disappointment",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03920.mp4",
+    "label": "fear,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03418.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00862.mp4",
+    "label": "anxiety,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03725.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00049.mp4",
+    "label": "happiness,contempt",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00542.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00683.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00253.mp4",
+    "label": "fear,sadness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01997.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00031.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02125.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01442.mp4",
+    "label": "sadness,disappointment",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02130.mp4",
+    "label": "fear,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/04344.mp4",
+    "label": "disgust,contempt",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03204.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02802.mp4",
+    "label": "fear,sadness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03473.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02798.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01227.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00344.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03909.mp4",
+    "label": "fear,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00648.mp4",
+    "label": "disgust,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01940.mp4",
+    "label": "disgust,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01439.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02073.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01002.mp4",
+    "label": "anger,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01391.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/07032.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00756.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01675.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02688.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/05914.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03542.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03567.mp4",
+    "label": "fear,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02723.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02393.mp4",
+    "label": "disgust,contempt",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00377.mp4",
+    "label": "anger,sadness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00711.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01651.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00684.mp4",
+    "label": "happiness,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/06961.mp4",
+    "label": "fear,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03064.mp4",
+    "label": "disgust,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01177.mp4",
+    "label": "sadness,disappointment",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/04947.mp4",
+    "label": "disgust,contempt",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02644.mp4",
+    "label": "sadness,helplessness,disappointment",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00544.mp4",
+    "label": "fear,sadness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03543.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03529.mp4",
+    "label": "fear,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01361.mp4",
+    "label": "disgust,contempt",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01402.mp4",
+    "label": "happiness,contempt",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00912.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01768.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00078.mp4",
+    "label": "disgust,contempt",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00234.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00904.mp4",
+    "label": "disgust,contempt",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03053.mp4",
+    "label": "helplessness,disappointment",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/04604.mp4",
+    "label": "disgust,sadness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00410.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00319.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03014.mp4",
+    "label": "fear,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02600.mp4",
+    "label": "sadness,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00517.mp4",
+    "label": "sadness,disappointment",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00215.mp4",
+    "label": "helplessness,disappointment",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03201.mp4",
+    "label": "happiness,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02003.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03183.mp4",
+    "label": "anxiety,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00271.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00262.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00606.mp4",
+    "label": "happiness,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01543.mp4",
+    "label": "fear,sadness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02086.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00784.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01071.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03078.mp4",
+    "label": "anger,sadness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/07010.mp4",
+    "label": "fear,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/04105.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01234.mp4",
+    "label": "sadness,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03561.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02757.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03103.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00345.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02733.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00954.mp4",
+    "label": "happiness,contempt",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/04331.mp4",
+    "label": "happiness,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00339.mp4",
+    "label": "disgust,contempt",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00587.mp4",
+    "label": "happiness,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01742.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00381.mp4",
+    "label": "sadness,helplessness,disappointment",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02253.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/04102.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01169.mp4",
+    "label": "happiness,contempt",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03222.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01937.mp4",
+    "label": "fear,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00602.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02720.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03189.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03250.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02411.mp4",
+    "label": "fear,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00629.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00240.mp4",
+    "label": "fear,sadness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02010.mp4",
+    "label": "disgust,sadness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03566.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00102.mp4",
+    "label": "happiness,contempt",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02080.mp4",
+    "label": "surprise,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01190.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01312.mp4",
+    "label": "happiness,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02615.mp4",
+    "label": "fear,sadness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01792.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00864.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02704.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01146.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00531.mp4",
+    "label": "sadness,disappointment",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01492.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02090.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01102.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02982.mp4",
+    "label": "fear,sadness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00107.mp4",
+    "label": "fear,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00852.mp4",
+    "label": "fear,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00516.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01191.mp4",
+    "label": "happiness,contempt",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01010.mp4",
+    "label": "happiness,contempt",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03603.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00905.mp4",
+    "label": "fear,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00670.mp4",
+    "label": "anger,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00543.mp4",
+    "label": "disgust,contempt",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01934.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03285.mp4",
+    "label": "anxiety,helplessness,disappointment",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00432.mp4",
+    "label": "happiness,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00180.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00746.mp4",
+    "label": "sadness,anxiety,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01294.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02383.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00928.mp4",
+    "label": "fear,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00572.mp4",
+    "label": "disgust,contempt",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00622.mp4",
+    "label": "surprise,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03195.mp4",
+    "label": "anger,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/05017.mp4",
+    "label": "happiness,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01336.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00855.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02394.mp4",
+    "label": "disgust,contempt",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00567.mp4",
+    "label": "sadness,disappointment",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01115.mp4",
+    "label": "happiness,contempt",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01196.mp4",
+    "label": "sadness,disappointment",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01475.mp4",
+    "label": "disgust,contempt",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02581.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00533.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00138.mp4",
+    "label": "fear,sadness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02939.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03575.mp4",
+    "label": "fear,surprise",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03565.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02254.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02553.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02503.mp4",
+    "label": "fear,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/03924.mp4",
+    "label": "disgust,contempt",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02885.mp4",
+    "label": "fear,anxiety",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00728.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/02871.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/01885.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "MAFW/video/00520.mp4",
+    "label": "sadness,helplessness",
+    "label_set": [
+      "disappointment",
+      "fear",
+      "contempt",
+      "disgust",
+      "sadness",
+      "anger",
+      "anxiety",
+      "happiness",
+      "surprise",
+      "helplessness"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/NoOt0oU843M_8.mp4",
+    "label": "happy,sad,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/GMa0cIAltnw_3.mp4",
+    "label": "anger,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/224263_4.mp4",
+    "label": "happy,sad,anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/273250_0.mp4",
+    "label": "happy,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/VwGPIUNayKM_8.mp4",
+    "label": "happy,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/P0UHzR4CmYg_10.mp4",
+    "label": "happy,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/107585_8.mp4",
+    "label": "happy,anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/116213_12.mp4",
+    "label": "happy,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/267466_30.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/kg-W6-hP2Do_17.mp4",
+    "label": "anger,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/2QXHdu2zlQY_2.mp4",
+    "label": "happy,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/252912_4.mp4",
+    "label": "sad,anger,surprise,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/267466_42.mp4",
+    "label": "sad,anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/238063_13.mp4",
+    "label": "happy,sad",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/GmpDbIstUdc_6.mp4",
+    "label": "happy,sad,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/WoL4fCxGd8Q_15.mp4",
+    "label": "happy,anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/SqAiJrvHXNA_0.mp4",
+    "label": "happy,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/GK-Pprzh0t0_5.mp4",
+    "label": "happy,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/23656_18.mp4",
+    "label": "sad,anger,surprise,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/275267_14.mp4",
+    "label": "sad,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/HJTxq72GuMs_9.mp4",
+    "label": "sad,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/Rb1uzHNcYcA_2.mp4",
+    "label": "happy,surprise,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/vTAV6FThy30_2.mp4",
+    "label": "happy,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/252097_12.mp4",
+    "label": "sad,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/gE7kUqMqQ9g_2.mp4",
+    "label": "sad,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/0K7dCp80n9c_4.mp4",
+    "label": "happy,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/273250_7.mp4",
+    "label": "anger,disgust,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/22373_10.mp4",
+    "label": "happy,sad,anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/h1ZZHUU4j0k_17.mp4",
+    "label": "happy,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/d-Uw_uZyUys_0.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/234046_10.mp4",
+    "label": "sad,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/tNd3--lvSXE_5.mp4",
+    "label": "happy,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/wC_1M7KIv9s_10.mp4",
+    "label": "sad,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/j1m6ctAgjsM_37.mp4",
+    "label": "happy,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/23656_19.mp4",
+    "label": "sad,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/IHp8hd1jm6k_12.mp4",
+    "label": "happy,sad,anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/3At-BKm9eYk_0.mp4",
+    "label": "sad,anger,disgust,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/WQFRctNL8AA_0.mp4",
+    "label": "happy,sad",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/243981_0.mp4",
+    "label": "happy,anger,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/53609_1.mp4",
+    "label": "happy,sad,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/sfaWfZ2-4c0_1.mp4",
+    "label": "sad,anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/252097_5.mp4",
+    "label": "happy,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/ZtocGyL3Tfc_11.mp4",
+    "label": "happy,sad",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/vTAV6FThy30_0.mp4",
+    "label": "happy,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/267694_18.mp4",
+    "label": "sad,surprise,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/0bxhZ-LIfZY_4.mp4",
+    "label": "sad,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/dlE05KC95uk_5.mp4",
+    "label": "happy,sad,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/mmg_eTDHjkk_11.mp4",
+    "label": "happy,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/8lfS97s2AKc_6.mp4",
+    "label": "sad,anger,surprise,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/8wQhzezNcUY_2.mp4",
+    "label": "happy,sad",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/121400_9.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/272838_14.mp4",
+    "label": "happy,sad",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/CO2YoTZbUr0_1.mp4",
+    "label": "happy,anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/X2Hs89fZ2-c_28.mp4",
+    "label": "happy,sad,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/111881_12.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/wznRBN1fWj4_10.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/F8eQI8E-6q4_10.mp4",
+    "label": "sad,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/41381_5.mp4",
+    "label": "sad,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/j1m6ctAgjsM_38.mp4",
+    "label": "happy,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/GK-Pprzh0t0_6.mp4",
+    "label": "happy,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/267466_27.mp4",
+    "label": "sad,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/gLTxaEcx41E_9.mp4",
+    "label": "sad,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/z0y1ZxH1f74_5.mp4",
+    "label": "sad,anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/29751_4.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/108146_2.mp4",
+    "label": "happy,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/ezuWKsxPRSM_2.mp4",
+    "label": "happy,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/2BuFtglEcaY_9.mp4",
+    "label": "happy,sad",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/92291_4.mp4",
+    "label": "happy,sad",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/97ENTofrmNo_1.mp4",
+    "label": "happy,sad,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/208322_9.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/194299_12.mp4",
+    "label": "happy,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/252912_7.mp4",
+    "label": "sad,anger,surprise,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/56989_10.mp4",
+    "label": "sad,anger,disgust,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/IRSxo_XXArg_9.mp4",
+    "label": "happy,sad,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/88791_7.mp4",
+    "label": "anger,surprise,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/202826_8.mp4",
+    "label": "happy,sad",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/P0UHzR4CmYg_15.mp4",
+    "label": "happy,anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/22373_2.mp4",
+    "label": "sad,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/24196_15.mp4",
+    "label": "sad,anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/kmgsC68hIL8_11.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/fdc7iyzKvFQ_3.mp4",
+    "label": "happy,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/TtAyUQtmTLk_2.mp4",
+    "label": "sad,anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/257277_10.mp4",
+    "label": "sad,anger,surprise,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/dlE05KC95uk_2.mp4",
+    "label": "happy,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/252097_9.mp4",
+    "label": "happy,surprise,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/HR18U0yAlTc_4.mp4",
+    "label": "sad,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/gpn71-aKWwQ_2.mp4",
+    "label": "happy,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/cW-aX4dPVfk_34.mp4",
+    "label": "sad,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/208592_4.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/eJfT7-dDqzA_8.mp4",
+    "label": "happy,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/dlE05KC95uk_14.mp4",
+    "label": "happy,anger,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/209758_5.mp4",
+    "label": "happy,sad",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/2Ky9DBSl49w_1.mp4",
+    "label": "sad,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/WoL4fCxGd8Q_8.mp4",
+    "label": "happy,sad",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/SH0OYx3fR7s_0.mp4",
+    "label": "happy,sad,anger,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/107585_12.mp4",
+    "label": "anger,surprise,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/273250_16.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/267466_35.mp4",
+    "label": "sad,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/267694_5.mp4",
+    "label": "happy,surprise,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/3IUVpwx23cY_9.mp4",
+    "label": "sad,anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/sfaWfZ2-4c0_4.mp4",
+    "label": "sad,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/0eTibWQdO5M_6.mp4",
+    "label": "happy,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/83400_7.mp4",
+    "label": "sad,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/oBS-IW-BO00_7.mp4",
+    "label": "happy,sad,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/198112_7.mp4",
+    "label": "happy,anger,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/mfpR4CN9LZo_23.mp4",
+    "label": "happy,surprise,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/126872_3.mp4",
+    "label": "sad,anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/28006_17.mp4",
+    "label": "sad,anger,surprise,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/215318_15.mp4",
+    "label": "happy,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/94481_11.mp4",
+    "label": "happy,sad",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/CO2YoTZbUr0_9.mp4",
+    "label": "anger,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/JHJOK6cdW-0_8.mp4",
+    "label": "sad,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/2ze94yo2aPo_0.mp4",
+    "label": "happy,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/KB5hSnV1emg_1.mp4",
+    "label": "happy,sad,surprise,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/226601_0.mp4",
+    "label": "happy,sad",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/JNhqI4JtPXA_1.mp4",
+    "label": "happy,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/lkeVfgI0eEk_8.mp4",
+    "label": "sad,anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/KB5hSnV1emg_3.mp4",
+    "label": "happy,sad",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/24504_3.mp4",
+    "label": "happy,surprise,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/221274_6.mp4",
+    "label": "happy,sad,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/88791_5.mp4",
+    "label": "anger,surprise,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/WoL4fCxGd8Q_10.mp4",
+    "label": "happy,sad,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/63951_7.mp4",
+    "label": "sad,anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/fsd1qPLA3kY_1.mp4",
+    "label": "anger,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/VS7xSvno7NA_9.mp4",
+    "label": "happy,sad",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/ROC2YI3tDsk_9.mp4",
+    "label": "happy,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/79356_9.mp4",
+    "label": "happy,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/236442_5.mp4",
+    "label": "sad,surprise,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/kbRtSmJM5aU_11.mp4",
+    "label": "sad,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/pSxte-ms0t8_22.mp4",
+    "label": "happy,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/255408_3.mp4",
+    "label": "sad,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/107585_11.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/Y8dI1GTWCk4_5.mp4",
+    "label": "happy,anger,surprise,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/190743_17.mp4",
+    "label": "sad,anger,surprise,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/245582_11.mp4",
+    "label": "happy,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/8wQhzezNcUY_9.mp4",
+    "label": "happy,sad,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/53609_15.mp4",
+    "label": "sad,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/1pl2FVdQWj0_2.mp4",
+    "label": "happy,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/LpTbjgELALo_2.mp4",
+    "label": "happy,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/206585_1.mp4",
+    "label": "sad,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/C5-cY1nPQ20_3.mp4",
+    "label": "anger,surprise,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/221274_4.mp4",
+    "label": "happy,sad",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/222247_14.mp4",
+    "label": "sad,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/fWAKek8jA5M_6.mp4",
+    "label": "anger,surprise,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/CO2YoTZbUr0_2.mp4",
+    "label": "anger,disgust,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/259470_4.mp4",
+    "label": "happy,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/108146_6.mp4",
+    "label": "happy,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/mZ_8em_-CGc_7.mp4",
+    "label": "happy,sad,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/ZKErPftd--w_1.mp4",
+    "label": "sad,anger,surprise,disgust,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/190743_7.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/pSxte-ms0t8_7.mp4",
+    "label": "anger,surprise,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/91844_7.mp4",
+    "label": "happy,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/211875_9.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/252097_2.mp4",
+    "label": "happy,anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/xSCvspXYU9k_18.mp4",
+    "label": "sad,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/eFV7iFPYZB4_3.mp4",
+    "label": "happy,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/7IxmlIwqigw_7.mp4",
+    "label": "happy,sad",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/8lfS97s2AKc_7.mp4",
+    "label": "happy,anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/22689_8.mp4",
+    "label": "sad,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/69824_5.mp4",
+    "label": "happy,anger,surprise,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/1pl2FVdQWj0_0.mp4",
+    "label": "happy,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/yUqNp-poh9M_15.mp4",
+    "label": "happy,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/257277_8.mp4",
+    "label": "surprise,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/224370_17.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/y3r2kk8zvl0_7.mp4",
+    "label": "happy,sad",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/vR90Pdx9wxs_0.mp4",
+    "label": "happy,sad",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/243981_2.mp4",
+    "label": "happy,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/pQpy7RSfWzM_14.mp4",
+    "label": "sad,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/rhQB8e999-Q_9.mp4",
+    "label": "happy,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/107585_6.mp4",
+    "label": "anger,surprise,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/x0rLwBIocuI_12.mp4",
+    "label": "happy,sad,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/252097_11.mp4",
+    "label": "happy,sad,anger,surprise,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/dHk--ExZbHs_8.mp4",
+    "label": "happy,sad,anger,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/WfNiQBXmPw8_7.mp4",
+    "label": "surprise,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/GO0V4ZGSF28_4.mp4",
+    "label": "happy,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/35694_13.mp4",
+    "label": "happy,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/oBS-IW-BO00_3.mp4",
+    "label": "happy,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/cW-aX4dPVfk_12.mp4",
+    "label": "happy,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/102213_10.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/gL8h7lOPv1Q_11.mp4",
+    "label": "happy,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/23656_21.mp4",
+    "label": "sad,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/vR90Pdx9wxs_4.mp4",
+    "label": "sad,surprise,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/238063_11.mp4",
+    "label": "happy,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/202826_6.mp4",
+    "label": "happy,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/MvEw24PU2Ac_15.mp4",
+    "label": "anger,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/35694_17.mp4",
+    "label": "happy,anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/102213_11.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/102389_9.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/Qfa1fY_07bQ_6.mp4",
+    "label": "sad,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/tW5xAWDnbGU_7.mp4",
+    "label": "happy,sad,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/X2Hs89fZ2-c_2.mp4",
+    "label": "sad,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/xXXcgb9eZ9Y_4.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/3wHE78v9zr4_21.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/6gtfeIqGasE_0.mp4",
+    "label": "happy,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/213327_4.mp4",
+    "label": "sad,anger,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/EyoMU2yoJPY_13.mp4",
+    "label": "happy,sad",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/Wmhif6hmPTQ_13.mp4",
+    "label": "sad,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/H-74k5vclCU_3.mp4",
+    "label": "happy,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/259470_8.mp4",
+    "label": "happy,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/l0vCKpk6Aes_24.mp4",
+    "label": "happy,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/d-Uw_uZyUys_1.mp4",
+    "label": "sad,anger,surprise,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/MZUr1DfYNNw_2.mp4",
+    "label": "happy,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/215318_0.mp4",
+    "label": "happy,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/59673_9.mp4",
+    "label": "sad,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/112509_0.mp4",
+    "label": "sad,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/5vwXp27bCLw_17.mp4",
+    "label": "anger,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/SKTyBOhDX6U_8.mp4",
+    "label": "happy,sad",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/HMRqR-P68Ws_16.mp4",
+    "label": "sad,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/EO_5o9Gup6g_16.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/8wQhzezNcUY_8.mp4",
+    "label": "sad,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/OctOcfI4KSs_3.mp4",
+    "label": "happy,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/x0rLwBIocuI_7.mp4",
+    "label": "sad,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/wnL3ld9bM2o_13.mp4",
+    "label": "happy,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/28006_1.mp4",
+    "label": "sad,anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/28006_10.mp4",
+    "label": "surprise,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/o2XbNJDpOlc_17.mp4",
+    "label": "happy,sad",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/234046_19.mp4",
+    "label": "sad,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/XLjpZUsFEXo_11.mp4",
+    "label": "happy,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/OWWHjP3pX9o_5.mp4",
+    "label": "happy,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/l1jW3OMXUzs_0.mp4",
+    "label": "happy,sad,anger,disgust,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/qTkazqluJ_I_9.mp4",
+    "label": "happy,sad",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/DnBHq5I52LM_5.mp4",
+    "label": "happy,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/94481_0.mp4",
+    "label": "happy,sad",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/272838_15.mp4",
+    "label": "happy,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/DnBHq5I52LM_0.mp4",
+    "label": "sad,anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/MtIklGnIMGo_5.mp4",
+    "label": "sad,anger,disgust,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/107585_0.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/200941_7.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/SwT0gh0V8fI_10.mp4",
+    "label": "happy,sad,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/Ie6sDptjAsU_3.mp4",
+    "label": "happy,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/211875_11.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/Oa2xVjzAMFc_9.mp4",
+    "label": "happy,anger,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/104741_0.mp4",
+    "label": "happy,sad",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/273250_15.mp4",
+    "label": "happy,anger,surprise,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/135623_3.mp4",
+    "label": "sad,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/267466_4.mp4",
+    "label": "sad,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/LtlL-03S79Q_6.mp4",
+    "label": "happy,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/224370_16.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/25640_4.mp4",
+    "label": "sad,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/252912_11.mp4",
+    "label": "sad,surprise,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/-ri04Z7vwnc_6.mp4",
+    "label": "happy,sad",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/HMRqR-P68Ws_3.mp4",
+    "label": "sad,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/107585_17.mp4",
+    "label": "happy,anger,surprise,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/224370_19.mp4",
+    "label": "sad,anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/23656_17.mp4",
+    "label": "sad,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/267694_3.mp4",
+    "label": "sad,disgust,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/236442_8.mp4",
+    "label": "sad,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/MvEw24PU2Ac_6.mp4",
+    "label": "happy,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/194299_4.mp4",
+    "label": "happy,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/102389_7.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/N-NnCI6U52c_2.mp4",
+    "label": "happy,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/SH0OYx3fR7s_7.mp4",
+    "label": "happy,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/cW-aX4dPVfk_19.mp4",
+    "label": "happy,sad",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/267466_31.mp4",
+    "label": "sad,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/3WZ6R9B0PcU_9.mp4",
+    "label": "sad,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/qDfSYz0PX9g_8.mp4",
+    "label": "happy,sad,anger,surprise,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/CO2YoTZbUr0_5.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/_1nvuNk7EFY_21.mp4",
+    "label": "happy,anger,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/oQizLbmte0c_10.mp4",
+    "label": "happy,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/ktblaVOnFVE_4.mp4",
+    "label": "happy,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/100178_8.mp4",
+    "label": "happy,surprise,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/X2Hs89fZ2-c_20.mp4",
+    "label": "happy,sad,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/wHeZHLv9wGI_12.mp4",
+    "label": "anger,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/267466_46.mp4",
+    "label": "sad,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/KB5hSnV1emg_9.mp4",
+    "label": "happy,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/83400_9.mp4",
+    "label": "anger,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/111881_11.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/oGFDE-6nd7Q_2.mp4",
+    "label": "sad,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/lkIe41StoGI_8.mp4",
+    "label": "sad,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/LDKWr94J0wM_4.mp4",
+    "label": "sad,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/eFV7iFPYZB4_5.mp4",
+    "label": "happy,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/259470_21.mp4",
+    "label": "sad,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/215318_8.mp4",
+    "label": "happy,sad",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/cW-aX4dPVfk_11.mp4",
+    "label": "happy,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/SwT0gh0V8fI_17.mp4",
+    "label": "happy,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/d1CDP6sMuLA_10.mp4",
+    "label": "sad,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/OORklkFql3k_4.mp4",
+    "label": "anger,disgust,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/25640_3.mp4",
+    "label": "happy,sad,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/111881_10.mp4",
+    "label": "sad,anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/bNQOeiAotbk_3.mp4",
+    "label": "happy,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/V0SvSPkiJUY_2.mp4",
+    "label": "happy,anger",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/gpn71-aKWwQ_1.mp4",
+    "label": "happy,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/C5-cY1nPQ20_10.mp4",
+    "label": "happy,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/TLPlduck5II_1.mp4",
+    "label": "anger,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/IRSxo_XXArg_3.mp4",
+    "label": "happy,sad,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/tymso_pAxhk_18.mp4",
+    "label": "sad,anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/WfNiQBXmPw8_6.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/252097_8.mp4",
+    "label": "anger,disgust,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/U-KihZeIfKI_6.mp4",
+    "label": "sad,anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/RVC8l5hf2Eg_13.mp4",
+    "label": "happy,anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/224370_4.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/U8VYG_g6yVE_5.mp4",
+    "label": "happy,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/130366_5.mp4",
+    "label": "happy,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/112425_9.mp4",
+    "label": "happy,surprise,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/Kyz32PTyP4I_1.mp4",
+    "label": "happy,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/ZcFzcd4ZoMg_5.mp4",
+    "label": "happy,surprise",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/273250_22.mp4",
+    "label": "anger,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/233939_7.mp4",
+    "label": "sad,disgust",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/6EDoVEm16fU_14.mp4",
+    "label": "happy,sad,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSEI/video/H9BNzzxlscA_5.mp4",
+    "label": "sad,fear",
+    "label_set": [
+      "happy",
+      "fear",
+      "disgust",
+      "anger",
+      "sad",
+      "surprise"
+    ]
+  }
+]

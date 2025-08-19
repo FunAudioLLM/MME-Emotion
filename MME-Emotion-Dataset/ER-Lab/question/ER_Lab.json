@@ -1,0 +1,7502 @@
+[
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_1_F034.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script02_2_F031.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_3_M030.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro02_F001.mp4",
+    "label": "Surprise",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro03_M006.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script03_1_M026.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script02_2_F016.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro02_F000.mp4",
+    "label": "Fear",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_1b_M001.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro04_M006.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro08_M015.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro01_M015.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro01_F008.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_2_M031.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro05_M005.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script02_1_F013.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro05_F014.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_1_M032.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script01_1_M009.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro05_M033.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro04_M039.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_2_F036.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_1b_F028.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro03_F053.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro02_F008.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro05_F000.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_2_F010.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_1_F015.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro03_F046.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro06_M017.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro01_F015.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro04_F013.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_2_M025.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro08_M006.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script01_3_F005.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_1_M002.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_2_F011.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro06_F014.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro06_M010.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro06_F005.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro03_M043.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script01_1_M013.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro07_F021.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script02_1_F008.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_1_F023.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script02_2_F026.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_1_M030.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro01_M018.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script01_1_M004.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro03_M020.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script02_2_M027.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script02_2_M032.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro02_M020.mp4",
+    "label": "Fear",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro04_M036.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_3_F015.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro07_F018.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_3_M002.mp4",
+    "label": "Surprise",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro05_M012.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro02_M035.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro02_M000.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script01_1_F009.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_1_M027.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro03_F013.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_1_M036.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro02_M003.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro03_F000.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro02_M007.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro05_M030.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro03_M021.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro07_F032.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_1b_F033.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script02_2_F003.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_1_F009.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script01_3_F024.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro03_M006.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script02_2_M037.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro07_F016.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro04_F022.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro03_M028.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro06_F017.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_1_F031.mp4",
+    "label": "Surprise",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script03_2_F021.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_1_M015.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script02_1_F017.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro03_F009.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_2_M029.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script02_1_F014.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro07_F014.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script03_2_F010.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro04_M014.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script02_1_F000.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro06_F028.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_1b_M028.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script02_2_M003.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro05_F035.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro05_M016.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script03_2_F038.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script02_2_F019.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro08_F023.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro04_M019.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro08_M005.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro03_F028.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script03_2_M000.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script02_2_F033.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script02_1_M007.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro04_F008.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script02_1_F014.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_1_M000.mp4",
+    "label": "Fear",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro02_F038.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro02_M021.mp4",
+    "label": "Fear",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_1_M002.mp4",
+    "label": "Fear",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script01_3_F020.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro04_F006.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script02_1_M024.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro07_M039.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro08_F008.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro02_M014.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro07_M029.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script02_2_M037.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro05_M051.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro01_F006.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script03_2_M033.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script01_1_F014.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro08_M024.mp4",
+    "label": "Surprise",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro05_M023.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro05_F041.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro03_F003.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro04_F012.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro02_F000.mp4",
+    "label": "Fear",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro07_M005.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script02_2_M001.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro03_F035.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro02_M025.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_3_F004.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro02_M019.mp4",
+    "label": "Surprise",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro05_M017.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro07_M026.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro07_F019.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro04_M013.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script03_1_F018.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro06_F029.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_1_M032.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script02_1_F016.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script03_2_F018.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_1_M011.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_2_M007.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script03_1_F000.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro02_F012.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_1_F004.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro02_M023.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_2_M009.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro03_M027.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro08_M001.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro01_F002.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro01_F023.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro05_M021.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script01_2_F015.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro02_F014.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro03_F019.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script02_2_F018.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro03_F029.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro07_F005.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro01_F016.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro03_M050.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro04_M019.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro07_M013.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script02_2_M038.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro04_F021.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro04_M036.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script02_2_F034.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro07_F003.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_1b_F030.mp4",
+    "label": "Surprise",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro03_M031.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script01_3_F009.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro03_F047.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro08_F018.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro04_F033.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro07_M004.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro02_F008.mp4",
+    "label": "Surprise",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro05_M011.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script02_1_M011.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_1_M031.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro02_F023.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro05_M029.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro02_F016.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script01_3_M002.mp4",
+    "label": "Surprise",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro03_M058.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro02_M016.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_1b_F002.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro02_F003.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_2_F003.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro04_F010.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_1_F017.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro08_F028.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro03_M012.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro03_F027.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_3_M012.mp4",
+    "label": "Surprise",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_2_M035.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script02_2_M033.mp4",
+    "label": "Surprise",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script02_1_M031.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro02_M022.mp4",
+    "label": "Fear",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_2_F016.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro03_F028.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro07_M030.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro07_M036.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro02_M005.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script03_2_M017.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script02_2_F014.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_1_F020.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro05_F006.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script01_3_M022.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro08_M026.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_2_M019.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro07_M007.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script02_2_F020.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_2_M017.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_3_M039.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_2_M033.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script03_1_F029.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script01_2_F001.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro02_F010.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro06_M002.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro03_F042.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro08_F004.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro02_F019.mp4",
+    "label": "Fear",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro02_M001.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro06_M013.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro02_F016.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_1b_F004.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro05_M002.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro03_M040.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_2_F038.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script02_2_M020.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script01_1_F020.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro08_F014.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro05_M017.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro07_M016.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script02_1_M025.mp4",
+    "label": "Surprise",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro02_M039.mp4",
+    "label": "Surprise",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script01_3_M001.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro07_M009.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro07_F015.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro05_F019.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script02_2_M022.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro01_F012.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro03_M008.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script03_2_M042.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro07_M035.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro02_M015.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro08_F025.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro07_F038.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro08_M012.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro07_M023.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro08_F003.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script03_2_M024.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_3_M035.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro03_M002.mp4",
+    "label": "Surprise",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro03_M048.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_1b_F001.mp4",
+    "label": "Surprise",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_3_F010.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script02_2_M018.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_1_F002.mp4",
+    "label": "Fear",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro08_M009.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_2_M036.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro02_F019.mp4",
+    "label": "Surprise",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro01_F010.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro08_F013.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_2_F039.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro01_M014.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro02_M038.mp4",
+    "label": "Fear",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script03_2_F034.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script02_1_M032.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script03_2_F020.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_1_M006.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script02_2_M036.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro08_M000.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_2_M001.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro07_F020.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script01_1_M040.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script01_1_F016.mp4",
+    "label": "Fear",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script01_3_F006.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro08_M029.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_1_M038.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro04_F026.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_1_F000.mp4",
+    "label": "Fear",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro07_M015.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro04_M027.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro07_F017.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro04_F005.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro05_M006.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_2_M040.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro04_F002.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro04_M022.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script02_1_M027.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro03_M065.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro03_M008.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro04_F043.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script02_2_M014.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro01_M023.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script02_1_F015.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script01_1_F030.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_2_F022.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script02_1_M006.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro05_M047.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro02_M010.mp4",
+    "label": "Fear",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script02_1_M022.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro04_M026.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro02_M032.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script01_3_M008.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro02_M037.mp4",
+    "label": "Fear",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro04_F029.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro02_F011.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro03_M064.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro06_M018.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro02_F015.mp4",
+    "label": "Fear",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script03_2_M043.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro07_M013.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_3_M042.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro02_M020.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro05_M036.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro02_F006.mp4",
+    "label": "Fear",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro01_F022.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script01_1_F028.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script01_1_F000.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro06_M006.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_2_F008.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro05_F022.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro08_F001.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_1_F001.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_3_M025.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro02_F015.mp4",
+    "label": "Other",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro02_M027.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script02_1_M005.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_1_F030.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script01_1_M008.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro08_F021.mp4",
+    "label": "Surprise",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro02_F032.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script02_1_F002.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_2_F009.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro05_F023.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro05_M037.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_2_M007.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_1b_M004.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_1_F014.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro02_F021.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro08_M008.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro08_F029.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro07_M031.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script02_2_M001.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro05_M015.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script03_2_M027.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script01_3_M023.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_1b_M016.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro08_F031.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro02_M018.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script03_1_F031.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro04_F016.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script01_1_F003.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script01_3_M038.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro08_M001.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro01_M006.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro05_M016.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro07_M021.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro02_F011.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro06_M022.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro03_F045.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script03_2_F025.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_2_M013.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro07_M032.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_2_F006.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script02_2_M000.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script03_2_M023.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro03_M001.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro04_F033.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro04_F044.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_1b_F014.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro04_M041.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_1_M000.mp4",
+    "label": "Fear",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro06_F004.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_1b_F013.mp4",
+    "label": "Fear",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script03_1_M002.mp4",
+    "label": "Fear",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro03_M023.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_3_F005.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro05_F002.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script03_2_M003.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro02_M032.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_1b_M019.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script02_1_M022.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro05_M008.mp4",
+    "label": "Surprise",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro08_M025.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro02_M022.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_1_F031.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro05_M032.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro05_M007.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro04_F029.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro03_F050.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro05_M001.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script02_2_M019.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script03_1_F015.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro04_F039.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script02_2_F034.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_2_F017.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_1_F026.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro07_F011.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro07_F021.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script02_1_F020.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro05_M024.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro01_M000.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro03_F009.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script03_1_F022.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro02_M018.mp4",
+    "label": "Other",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro05_F009.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script03_2_M014.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_2_M011.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro08_M007.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_3_F000.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_3_F027.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro03_F056.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro04_M040.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_1_F036.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_1b_F018.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro03_M007.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script02_2_M019.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro04_M035.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script02_2_F011.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_2_F043.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_2_M020.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro03_M005.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_1_M028.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script03_1_M015.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro05_F016.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script02_2_M025.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro03_F054.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro05_M042.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro01_F003.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro07_F039.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_1_M004.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro06_M003.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro04_F034.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro04_F036.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_1b_M020.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_1b_M009.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro06_F006.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro06_M015.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro04_M013.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro06_F010.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script03_1_M006.mp4",
+    "label": "Fear",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script01_1_M032.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script02_1_F015.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script03_2_M041.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro08_M004.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script01_2_M001.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script01_3_M009.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro05_M018.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_1b_M022.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script01_1_F031.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro03_M063.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro08_M005.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_2_F002.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro08_M015.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro06_F015.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro08_M023.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro08_F011.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro05_M022.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro08_F022.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_3_F025.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro03_F015.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro08_M002.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro02_F002.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro02_M017.mp4",
+    "label": "Other",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script02_1_F009.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script02_1_M023.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro07_M045.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script01_2_F017.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro04_F003.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro04_M041.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro06_M007.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script01_3_M007.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro01_F001.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_3_M018.mp4",
+    "label": "Surprise",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro02_M003.mp4",
+    "label": "Fear",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro03_F001.mp4",
+    "label": "Surprise",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro08_M017.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro05_F031.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro03_F033.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script03_2_M023.mp4",
+    "label": "Anger",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_impro08_F012.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script03_1_M007.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_1_F024.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro05_F006.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script03_1_M003.mp4",
+    "label": "Fear",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script01_1_F023.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script03_1_F002.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_script01_2_F007.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script02_2_F032.mp4",
+    "label": "Sadness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05F_script02_2_F015.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro04_F002.mp4",
+    "label": "Neutral",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro01_F020.mp4",
+    "label": "Frustration",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro03_F023.mp4",
+    "label": "Excited",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  },
+  {
+    "video_id": "IEMOCAP/video/Ses05M_impro07_F008.mp4",
+    "label": "Happiness",
+    "label_set": [
+      "Anger",
+      "Sadness",
+      "Surprise",
+      "Happiness",
+      "Excited",
+      "Fear",
+      "Frustration",
+      "Neutral",
+      "Other"
+    ]
+  }
+]

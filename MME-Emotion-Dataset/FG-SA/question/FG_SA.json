@@ -1,0 +1,7502 @@
+[
+  {
+    "video_id": "CMU-MOSI/video/c7UH_rxdZv4_20.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/c7UH_rxdZv4_7.mp4",
+    "label": "very strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/etzxEpPuc6I_12.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/lXPQBPVc5Cw_16.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/c7UH_rxdZv4_27.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/nzpVDcQ0ywM_15.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/f9O3YtZ2VfI_21.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/wMbj6ajWbic_15.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/iiK8YX8oH1E_16.mp4",
+    "label": "neutral",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/pLTX3ipuDJI_6.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/iiK8YX8oH1E_14.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/jUzDDGyPkXU_7.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/f_pcplsH_V0_5.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tmZoasNr4rU_12.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cW1FSBF59ik_9.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/nzpVDcQ0ywM_23.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/vyB00TXsimI_10.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/k5Y_838nuGo_12.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/lXPQBPVc5Cw_2.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/ob23OKe5a9Q_7.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/v0zCBqDeKcE_15.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tmZoasNr4rU_1.mp4",
+    "label": "neutral",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/dq3Nf_lMPnE_5.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/rnaNMUZpvvg_11.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cW1FSBF59ik_2.mp4",
+    "label": "very strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/zhpQhgha_KU_5.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/lXPQBPVc5Cw_10.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cXypl4FnoZo_18.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d6hH302o4v8_30.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/f9O3YtZ2VfI_27.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/rnaNMUZpvvg_7.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/pLTX3ipuDJI_12.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/ob23OKe5a9Q_10.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/pLTX3ipuDJI_5.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/rnaNMUZpvvg_16.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/c7UH_rxdZv4_31.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tIrG4oNLFzE_7.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d6hH302o4v8_39.mp4",
+    "label": "very strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/zhpQhgha_KU_11.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/ob23OKe5a9Q_6.mp4",
+    "label": "neutral",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/wMbj6ajWbic_5.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/ob23OKe5a9Q_4.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/v0zCBqDeKcE_14.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tIrG4oNLFzE_18.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/wMbj6ajWbic_1.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cW1FSBF59ik_16.mp4",
+    "label": "very strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/vvZ4IcEtiZc_8.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/lXPQBPVc5Cw_23.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/jUzDDGyPkXU_11.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/phBUpBr1hSo_1.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d6hH302o4v8_38.mp4",
+    "label": "very strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cXypl4FnoZo_17.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/wMbj6ajWbic_8.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/rnaNMUZpvvg_19.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/lXPQBPVc5Cw_17.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/zhpQhgha_KU_33.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yvsjCA6Y5Fc_11.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/dq3Nf_lMPnE_7.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/c7UH_rxdZv4_2.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d6hH302o4v8_27.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/dq3Nf_lMPnE_6.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/k5Y_838nuGo_4.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/v0zCBqDeKcE_12.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/lXPQBPVc5Cw_21.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/c7UH_rxdZv4_5.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/lXPQBPVc5Cw_28.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/nzpVDcQ0ywM_24.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/vyB00TXsimI_14.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/vyB00TXsimI_4.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/f9O3YtZ2VfI_17.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/c7UH_rxdZv4_23.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/zhpQhgha_KU_9.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/f_pcplsH_V0_6.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tmZoasNr4rU_14.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cW1FSBF59ik_22.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cW1FSBF59ik_14.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/zhpQhgha_KU_16.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/c7UH_rxdZv4_25.mp4",
+    "label": "neutral",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d6hH302o4v8_4.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/rnaNMUZpvvg_1.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/phBUpBr1hSo_12.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yDtzw_Y-7RU_1.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yDtzw_Y-7RU_17.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/vvZ4IcEtiZc_1.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/phBUpBr1hSo_11.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/f9O3YtZ2VfI_11.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/c7UH_rxdZv4_6.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d6hH302o4v8_32.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/c7UH_rxdZv4_33.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yDtzw_Y-7RU_9.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/wMbj6ajWbic_21.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/fvVhgmXxadc_7.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tStelxIAHjw_2.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/wMbj6ajWbic_7.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/lXPQBPVc5Cw_13.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d3_k5Xpfmik_18.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cXypl4FnoZo_15.mp4",
+    "label": "neutral",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cM3Yna7AavY_7.mp4",
+    "label": "very strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/dq3Nf_lMPnE_3.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/lXPQBPVc5Cw_14.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yDtzw_Y-7RU_13.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/v0zCBqDeKcE_3.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/c7UH_rxdZv4_32.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yDtzw_Y-7RU_12.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d6hH302o4v8_23.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cXypl4FnoZo_14.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/c7UH_rxdZv4_17.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cM3Yna7AavY_3.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cM3Yna7AavY_16.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yvsjCA6Y5Fc_8.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/nbWiPyCm4g0_6.mp4",
+    "label": "neutral",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/vyB00TXsimI_13.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cW1FSBF59ik_17.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/wMbj6ajWbic_4.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yDtzw_Y-7RU_22.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d6hH302o4v8_6.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/k5Y_838nuGo_16.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/c7UH_rxdZv4_18.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/f9O3YtZ2VfI_18.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cW1FSBF59ik_18.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cXypl4FnoZo_29.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/phBUpBr1hSo_8.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/nbWiPyCm4g0_4.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/c7UH_rxdZv4_28.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/zhpQhgha_KU_19.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/phBUpBr1hSo_7.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/rnaNMUZpvvg_3.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/dq3Nf_lMPnE_2.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cM3Yna7AavY_15.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tmZoasNr4rU_16.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/etzxEpPuc6I_6.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tStelxIAHjw_9.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/nzpVDcQ0ywM_14.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/pLTX3ipuDJI_10.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/fvVhgmXxadc_10.mp4",
+    "label": "neutral",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/k5Y_838nuGo_27.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/fvVhgmXxadc_4.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/jUzDDGyPkXU_8.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/iiK8YX8oH1E_1.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tStelxIAHjw_6.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/zhpQhgha_KU_24.mp4",
+    "label": "neutral",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/lXPQBPVc5Cw_5.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/wMbj6ajWbic_18.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/jUzDDGyPkXU_23.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tmZoasNr4rU_9.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/iiK8YX8oH1E_18.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/nbWiPyCm4g0_10.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/etzxEpPuc6I_10.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d6hH302o4v8_26.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/k5Y_838nuGo_22.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/zhpQhgha_KU_4.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d3_k5Xpfmik_6.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tIrG4oNLFzE_1.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yvsjCA6Y5Fc_15.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/vvZ4IcEtiZc_6.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/c7UH_rxdZv4_12.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d6hH302o4v8_11.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d3_k5Xpfmik_16.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/wMbj6ajWbic_3.mp4",
+    "label": "neutral",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yvsjCA6Y5Fc_6.mp4",
+    "label": "neutral",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/k5Y_838nuGo_8.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tIrG4oNLFzE_2.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yDtzw_Y-7RU_23.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/c7UH_rxdZv4_4.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yDtzw_Y-7RU_3.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cW1FSBF59ik_13.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/wMbj6ajWbic_23.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/f9O3YtZ2VfI_13.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/lXPQBPVc5Cw_20.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/lXPQBPVc5Cw_7.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/v0zCBqDeKcE_6.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/f_pcplsH_V0_8.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tIrG4oNLFzE_9.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cW1FSBF59ik_15.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/wMbj6ajWbic_16.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cXypl4FnoZo_25.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cM3Yna7AavY_9.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d6hH302o4v8_20.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cXypl4FnoZo_20.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tStelxIAHjw_10.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/lXPQBPVc5Cw_15.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/jUzDDGyPkXU_2.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tIrG4oNLFzE_12.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tIrG4oNLFzE_5.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/vvZ4IcEtiZc_7.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/jUzDDGyPkXU_18.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tmZoasNr4rU_10.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/vyB00TXsimI_1.mp4",
+    "label": "neutral",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/nzpVDcQ0ywM_18.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cW1FSBF59ik_24.mp4",
+    "label": "neutral",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/lXPQBPVc5Cw_30.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/jUzDDGyPkXU_24.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tIrG4oNLFzE_8.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/vvZ4IcEtiZc_12.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cXypl4FnoZo_11.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tIrG4oNLFzE_17.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yvsjCA6Y5Fc_21.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/f9O3YtZ2VfI_14.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/ob23OKe5a9Q_3.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/iiK8YX8oH1E_12.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tStelxIAHjw_12.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/f9O3YtZ2VfI_5.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tIrG4oNLFzE_10.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tStelxIAHjw_7.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/k5Y_838nuGo_20.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/f9O3YtZ2VfI_23.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/rnaNMUZpvvg_18.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d6hH302o4v8_34.mp4",
+    "label": "very strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/rnaNMUZpvvg_9.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cW1FSBF59ik_7.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/pLTX3ipuDJI_14.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/dq3Nf_lMPnE_11.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cW1FSBF59ik_6.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/c7UH_rxdZv4_1.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/etzxEpPuc6I_7.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/lXPQBPVc5Cw_29.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cXypl4FnoZo_7.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/vyB00TXsimI_18.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cW1FSBF59ik_3.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/nzpVDcQ0ywM_8.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/nzpVDcQ0ywM_3.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/iiK8YX8oH1E_9.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/k5Y_838nuGo_13.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/etzxEpPuc6I_5.mp4",
+    "label": "neutral",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d6hH302o4v8_19.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/pLTX3ipuDJI_1.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yDtzw_Y-7RU_16.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yvsjCA6Y5Fc_20.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/phBUpBr1hSo_10.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/vyB00TXsimI_11.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cM3Yna7AavY_14.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/vvZ4IcEtiZc_11.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/vvZ4IcEtiZc_10.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/zhpQhgha_KU_13.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/vyB00TXsimI_7.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yvsjCA6Y5Fc_17.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/c7UH_rxdZv4_15.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/rnaNMUZpvvg_4.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d3_k5Xpfmik_10.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/zhpQhgha_KU_25.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/nzpVDcQ0ywM_5.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/fvVhgmXxadc_11.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d3_k5Xpfmik_2.mp4",
+    "label": "neutral",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/f_pcplsH_V0_9.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/f9O3YtZ2VfI_16.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yvsjCA6Y5Fc_16.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cXypl4FnoZo_8.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cXypl4FnoZo_19.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/fvVhgmXxadc_6.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cXypl4FnoZo_4.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/iiK8YX8oH1E_10.mp4",
+    "label": "neutral",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/f_pcplsH_V0_14.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yDtzw_Y-7RU_15.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yDtzw_Y-7RU_7.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/dq3Nf_lMPnE_10.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/lXPQBPVc5Cw_6.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/f9O3YtZ2VfI_28.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/dq3Nf_lMPnE_9.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/zhpQhgha_KU_31.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/jUzDDGyPkXU_26.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/wMbj6ajWbic_12.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/k5Y_838nuGo_24.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cM3Yna7AavY_10.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/rnaNMUZpvvg_15.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/ob23OKe5a9Q_2.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d6hH302o4v8_40.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/rnaNMUZpvvg_5.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/vyB00TXsimI_6.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/nzpVDcQ0ywM_10.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/k5Y_838nuGo_9.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d3_k5Xpfmik_14.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/vyB00TXsimI_22.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/dq3Nf_lMPnE_15.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/lXPQBPVc5Cw_9.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/vvZ4IcEtiZc_3.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yvsjCA6Y5Fc_4.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/phBUpBr1hSo_17.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/vyB00TXsimI_5.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/f9O3YtZ2VfI_6.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yvsjCA6Y5Fc_14.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/f9O3YtZ2VfI_26.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yDtzw_Y-7RU_8.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cXypl4FnoZo_24.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/lXPQBPVc5Cw_3.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/c7UH_rxdZv4_30.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/pLTX3ipuDJI_2.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/nbWiPyCm4g0_5.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/wMbj6ajWbic_20.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/zhpQhgha_KU_22.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/zhpQhgha_KU_10.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/rnaNMUZpvvg_22.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/zhpQhgha_KU_17.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/ob23OKe5a9Q_12.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/jUzDDGyPkXU_12.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yvsjCA6Y5Fc_5.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/k5Y_838nuGo_2.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/zhpQhgha_KU_15.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/f_pcplsH_V0_11.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d6hH302o4v8_22.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/phBUpBr1hSo_5.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/k5Y_838nuGo_25.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/ob23OKe5a9Q_13.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/k5Y_838nuGo_28.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d6hH302o4v8_36.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/lXPQBPVc5Cw_19.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/etzxEpPuc6I_15.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cW1FSBF59ik_5.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/etzxEpPuc6I_3.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/nzpVDcQ0ywM_7.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d6hH302o4v8_1.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/nzpVDcQ0ywM_9.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d3_k5Xpfmik_12.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d6hH302o4v8_3.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d3_k5Xpfmik_8.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/wMbj6ajWbic_28.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/iiK8YX8oH1E_5.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/c7UH_rxdZv4_3.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/nbWiPyCm4g0_3.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/k5Y_838nuGo_26.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/etzxEpPuc6I_11.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tmZoasNr4rU_11.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/k5Y_838nuGo_11.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/phBUpBr1hSo_2.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tIrG4oNLFzE_4.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/fvVhgmXxadc_14.mp4",
+    "label": "neutral",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/v0zCBqDeKcE_2.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/iiK8YX8oH1E_17.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yDtzw_Y-7RU_21.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tStelxIAHjw_4.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/zhpQhgha_KU_1.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/jUzDDGyPkXU_1.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d6hH302o4v8_8.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/f_pcplsH_V0_4.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cW1FSBF59ik_8.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/jUzDDGyPkXU_19.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/f9O3YtZ2VfI_19.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yvsjCA6Y5Fc_10.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/zhpQhgha_KU_21.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/c7UH_rxdZv4_13.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/zhpQhgha_KU_12.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yDtzw_Y-7RU_20.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d3_k5Xpfmik_15.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/wMbj6ajWbic_26.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/wMbj6ajWbic_24.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/lXPQBPVc5Cw_26.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/lXPQBPVc5Cw_8.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tStelxIAHjw_15.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/wMbj6ajWbic_9.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/nzpVDcQ0ywM_6.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/zhpQhgha_KU_34.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/rnaNMUZpvvg_12.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/phBUpBr1hSo_18.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yDtzw_Y-7RU_6.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cW1FSBF59ik_12.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/phBUpBr1hSo_19.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cXypl4FnoZo_5.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d6hH302o4v8_41.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cM3Yna7AavY_8.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yDtzw_Y-7RU_4.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cXypl4FnoZo_23.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/f_pcplsH_V0_1.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yvsjCA6Y5Fc_23.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yvsjCA6Y5Fc_18.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/nzpVDcQ0ywM_1.mp4",
+    "label": "neutral",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/v0zCBqDeKcE_5.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/pLTX3ipuDJI_7.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/rnaNMUZpvvg_8.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/zhpQhgha_KU_23.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tStelxIAHjw_16.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/dq3Nf_lMPnE_12.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/jUzDDGyPkXU_16.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/lXPQBPVc5Cw_1.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/c7UH_rxdZv4_24.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/pLTX3ipuDJI_13.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/k5Y_838nuGo_21.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/zhpQhgha_KU_7.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/dq3Nf_lMPnE_4.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/zhpQhgha_KU_30.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/v0zCBqDeKcE_4.mp4",
+    "label": "neutral",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/vyB00TXsimI_9.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cXypl4FnoZo_12.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yDtzw_Y-7RU_5.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/pLTX3ipuDJI_3.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d6hH302o4v8_13.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yDtzw_Y-7RU_18.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/fvVhgmXxadc_12.mp4",
+    "label": "neutral",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/wMbj6ajWbic_14.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tmZoasNr4rU_2.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/iiK8YX8oH1E_6.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cM3Yna7AavY_6.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/ob23OKe5a9Q_1.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tIrG4oNLFzE_16.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/rnaNMUZpvvg_21.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/f_pcplsH_V0_10.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/jUzDDGyPkXU_14.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/pLTX3ipuDJI_11.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tStelxIAHjw_3.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/iiK8YX8oH1E_11.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/jUzDDGyPkXU_5.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/k5Y_838nuGo_15.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/f9O3YtZ2VfI_2.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d6hH302o4v8_28.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/f_pcplsH_V0_15.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tStelxIAHjw_13.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/f9O3YtZ2VfI_1.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tIrG4oNLFzE_3.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/zhpQhgha_KU_28.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/nzpVDcQ0ywM_4.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yDtzw_Y-7RU_11.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d6hH302o4v8_16.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/k5Y_838nuGo_7.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cM3Yna7AavY_11.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cXypl4FnoZo_6.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/zhpQhgha_KU_29.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/k5Y_838nuGo_31.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tIrG4oNLFzE_13.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d3_k5Xpfmik_19.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/pLTX3ipuDJI_15.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/c7UH_rxdZv4_21.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/etzxEpPuc6I_1.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d6hH302o4v8_10.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/nzpVDcQ0ywM_20.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/zhpQhgha_KU_2.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/jUzDDGyPkXU_10.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d6hH302o4v8_21.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/f9O3YtZ2VfI_7.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/dq3Nf_lMPnE_8.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/c7UH_rxdZv4_29.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/zhpQhgha_KU_32.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/wMbj6ajWbic_13.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/lXPQBPVc5Cw_11.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/k5Y_838nuGo_18.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/lXPQBPVc5Cw_4.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d6hH302o4v8_14.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/etzxEpPuc6I_17.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yDtzw_Y-7RU_24.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/vvZ4IcEtiZc_9.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yvsjCA6Y5Fc_22.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/etzxEpPuc6I_16.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/ob23OKe5a9Q_5.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/lXPQBPVc5Cw_25.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/etzxEpPuc6I_9.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cXypl4FnoZo_1.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/dq3Nf_lMPnE_14.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tStelxIAHjw_1.mp4",
+    "label": "neutral",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/pLTX3ipuDJI_8.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/k5Y_838nuGo_3.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/nzpVDcQ0ywM_12.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/rnaNMUZpvvg_14.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/vyB00TXsimI_12.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/c7UH_rxdZv4_14.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/fvVhgmXxadc_9.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tStelxIAHjw_8.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/c7UH_rxdZv4_9.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/f9O3YtZ2VfI_4.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/f_pcplsH_V0_7.mp4",
+    "label": "neutral",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d3_k5Xpfmik_3.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/jUzDDGyPkXU_25.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/iiK8YX8oH1E_7.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cXypl4FnoZo_10.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/pLTX3ipuDJI_4.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cXypl4FnoZo_16.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/v0zCBqDeKcE_10.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/nbWiPyCm4g0_9.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/v0zCBqDeKcE_16.mp4",
+    "label": "neutral",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/rnaNMUZpvvg_10.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/phBUpBr1hSo_6.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tmZoasNr4rU_15.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/jUzDDGyPkXU_3.mp4",
+    "label": "neutral",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/vyB00TXsimI_20.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/k5Y_838nuGo_10.mp4",
+    "label": "strong positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d6hH302o4v8_7.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/wMbj6ajWbic_2.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cXypl4FnoZo_28.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tmZoasNr4rU_6.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cM3Yna7AavY_4.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/f9O3YtZ2VfI_12.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/phBUpBr1hSo_16.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/tmZoasNr4rU_20.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/lXPQBPVc5Cw_24.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/zhpQhgha_KU_26.mp4",
+    "label": "neutral",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/yDtzw_Y-7RU_10.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/zhpQhgha_KU_3.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/nbWiPyCm4g0_7.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/iiK8YX8oH1E_3.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cXypl4FnoZo_9.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/nbWiPyCm4g0_8.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/f9O3YtZ2VfI_20.mp4",
+    "label": "weak negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/vyB00TXsimI_19.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d6hH302o4v8_9.mp4",
+    "label": "strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/jUzDDGyPkXU_4.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/etzxEpPuc6I_2.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/f9O3YtZ2VfI_22.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/nzpVDcQ0ywM_16.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d6hH302o4v8_33.mp4",
+    "label": "very strong negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/cXypl4FnoZo_3.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/v0zCBqDeKcE_11.mp4",
+    "label": "positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/f9O3YtZ2VfI_3.mp4",
+    "label": "weak positive",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/dq3Nf_lMPnE_1.mp4",
+    "label": "neutral",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  },
+  {
+    "video_id": "CMU-MOSI/video/d6hH302o4v8_42.mp4",
+    "label": "negative",
+    "label_set": [
+      "very strong negative",
+      "strong negative",
+      "negative",
+      "weak negative",
+      "neutral",
+      "weak positive",
+      "positive",
+      "strong positive",
+      "very strong positive"
+    ]
+  }
+]
