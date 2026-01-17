@@ -21,6 +21,7 @@
 ---
 
 ## 💥 News
+- **[2026.01]** 🚀 We upload the whole [MME-Emotion dataset](https://huggingface.co/datasets/Karl28/MME-Emotion)!
 - **[2025.08]** 🚀 We release the [arXiv paper](https://www.arxiv.org/pdf/2508.09210)!
 
 
